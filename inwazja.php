@@ -86,7 +86,7 @@ $result=mysqli_query($polaczenie,$sql);
 
 		 <input type="hidden" id="INPUTC" name = "endScoreC"/>
 		
-		<input  type="submit" value="Nowa gra" />
+		<input class="btn" type="submit" value="Nowa gra" />
 		</form>
 	
 		</h1>
@@ -103,7 +103,7 @@ $result=mysqli_query($polaczenie,$sql);
 
 		 <input type="hidden" id="INPUTGO" name = "endScoreGO"/>
 		
-		<input  type="submit" value="Nowa gra" />
+		<input class="btn" type="submit" value="Nowa gra" />
 	
 	</form>
 	
